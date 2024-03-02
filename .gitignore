@@ -1,0 +1,5 @@
+infos/
+node_modules/
+.env
+config.json
+settings.json

@@ -1,0 +1,17 @@
+{
+  "name": "chefkoch0312bot",
+  "version": "0.1.0",
+  "description": "Grundlegend erstmal ein einfacher Discord-Bot, der nach Update der API wieder funktionsfähig ist und ausgebaut werden möchte.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kai Dombrowski",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
